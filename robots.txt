@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nero8919.github.io/al-folio/sitemap.xml
+Sitemap: https://nero8919.github.io/sitemap.xml
