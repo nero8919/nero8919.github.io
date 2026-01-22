@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D student (2023.3 ~), <a href='https://robotics.uos.ac.kr/'>UOS Robotics Lab</a>, Dept. Mechanical and Information Engineering, University of Seoul
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: myPic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
